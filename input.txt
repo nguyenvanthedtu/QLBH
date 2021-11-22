@@ -1,0 +1,12 @@
+001 Samsung 2019 Trắng 200 Smartphone 1200 ĐIỆN THOẠI 
+002 Dell 2018 Đen 100 Đồ hoạ 1500 LAPTOP 
+003 Nokia 2019 Trắng 200 Cục gạch 1200 ĐIỆN THOẠI  
+004 Asus 2019 Trắng 200 Văn phòng 1300 LAPTOP
+005 Hp 2020 Đen 100 Đồ hoạ 1500 LAPTOP 
+006 Oppo 2019 Hồng 110 Smartphone 1000 ĐIỆN THOẠI  
+007 Lenovo 2018 Đen 105 Văn phòng 1200 LAPTOP  
+008 Asus 2019 Trắng 100 Gaming 2000 LAPTOP
+009 Huawei 2015 Vàng 50 Smartphone 1000 ĐIỆN THOẠI   
+010 Oppo 2020 Hồng 120 Smartphone 1300 ĐIỆN THOẠI  
+
+
